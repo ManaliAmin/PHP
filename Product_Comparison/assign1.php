@@ -1,20 +1,5 @@
 <!DOCTYPE html>
 <html>
-<!--
-group members:
-
-M.Saeed Mohiti		116236159
-
-Adriel Arce De La Cruz		106336167
-
-Saif Husain Khan	125444158
-
-Manali Amin		119679157
-
-Digvijaysingh Makwana	101918167
-
--->
-
 <head>
 	<title>Assignment 1</title>
 </head>
